@@ -1,0 +1,3 @@
+term,explanation,analogy,use_case,related_terms
+Reverse Proxy,Forwards requests to backend servers,A receptionist forwarding calls to staff,Used to hide backend servers,Load Balancer; CDN
+Vector Database,Stores embeddings efficiently,A librarian categorizing by topic,Used in semantic search,FAISS; Pinecone
